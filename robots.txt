@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://alooghaij.richardjurban.net/sitemap.xml
